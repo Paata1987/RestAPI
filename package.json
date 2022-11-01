@@ -1,0 +1,22 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paata1987/RestAPI.git"
+  },
+  "author": "Paata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paata1987/RestAPI/issues"
+  },
+  "homepage": "https://github.com/Paata1987/RestAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
